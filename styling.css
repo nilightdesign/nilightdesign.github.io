@@ -1,0 +1,3489 @@
+html {
+  height: 100%;
+  background: radial-gradient(ellipse at bottom, #202E8C, #0A0A0A);
+}
+
+#stars {
+  width: 1px;
+  height: 1px;
+  background: transparent;
+  box-shadow: 320px 176px #FFF , 83px 331px #FFF , 1837px 806px #FFF , 1153px 1594px #FFF , 220px 988px #FFF , 833px 946px #FFF , 276px 414px #FFF , 560px 499px #FFF , 5px 1118px #FFF , 62px 1508px #FFF , 1758px 98px #FFF , 37px 254px #FFF , 1003px 566px #FFF , 1985px 1546px #FFF , 218px 259px #FFF , 1104px 1081px #FFF , 1097px 1310px #FFF , 359px 1785px #FFF , 1549px 180px #FFF , 1826px 992px #FFF , 1487px 673px #FFF , 302px 546px #FFF , 1446px 1014px #FFF , 600px 471px #FFF , 783px 1681px #FFF , 1930px 1771px #FFF , 1331px 1643px #FFF , 507px 1965px #FFF , 1658px 1696px #FFF , 971px 1855px #FFF , 1036px 93px #FFF , 1605px 1669px #FFF , 1525px 1037px #FFF , 559px 1409px #FFF , 82px 270px #FFF , 343px 710px #FFF , 1294px 1740px #FFF , 376px 1415px #FFF , 1742px 964px #FFF , 877px 515px #FFF , 1057px 1252px #FFF , 1484px 1565px #FFF , 1736px 1039px #FFF , 1626px 391px #FFF , 70px 1448px #FFF , 90px 1635px #FFF , 688px 292px #FFF , 374px 651px #FFF , 1865px 700px #FFF , 546px 277px #FFF , 1452px 208px #FFF , 566px 50px #FFF , 1110px 276px #FFF , 459px 255px #FFF , 364px 1492px #FFF , 487px 774px #FFF , 380px 1699px #FFF , 1206px 1634px #FFF , 201px 1394px #FFF , 1071px 1208px #FFF , 1932px 519px #FFF , 872px 855px #FFF , 1400px 123px #FFF , 1731px 1375px #FFF , 853px 1343px #FFF , 404px 1820px #FFF , 1008px 1245px #FFF , 799px 1239px #FFF , 1214px 1799px #FFF , 7px 1709px #FFF , 726px 985px #FFF , 1903px 349px #FFF , 1164px 1728px #FFF , 1460px 1877px #FFF , 1933px 330px #FFF , 1583px 1998px #FFF , 713px 1139px #FFF , 1175px 1764px #FFF , 376px 943px #FFF , 620px 1624px #FFF , 1749px 1886px #FFF , 1260px 199px #FFF , 141px 1993px #FFF , 828px 1101px #FFF , 1700px 1678px #FFF , 1924px 794px #FFF , 591px 522px #FFF , 95px 201px #FFF , 391px 1889px #FFF , 872px 1595px #FFF , 755px 1754px #FFF , 1048px 5px #FFF , 138px 1162px #FFF , 604px 1322px #FFF , 1826px 1325px #FFF , 1879px 1915px #FFF , 1418px 213px #FFF , 1201px 407px #FFF , 954px 402px #FFF , 1755px 1632px #FFF , 1202px 1839px #FFF , 1465px 11px #FFF , 503px 1874px #FFF , 761px 1322px #FFF , 1283px 1328px #FFF , 1861px 449px #FFF , 626px 1321px #FFF , 1834px 1702px #FFF , 609px 1566px #FFF , 1298px 339px #FFF , 1304px 459px #FFF , 79px 1428px #FFF , 336px 689px #FFF , 1770px 1098px #FFF , 156px 1119px #FFF , 451px 33px #FFF , 1346px 813px #FFF , 760px 23px #FFF , 707px 1612px #FFF , 1998px 794px #FFF , 3px 618px #FFF , 1990px 388px #FFF , 1275px 1336px #FFF , 1210px 1358px #FFF , 775px 278px #FFF , 1969px 559px #FFF , 867px 1710px #FFF , 1374px 1625px #FFF , 1147px 1489px #FFF , 984px 857px #FFF , 679px 515px #FFF , 1187px 1839px #FFF , 289px 1900px #FFF , 1579px 1766px #FFF , 510px 254px #FFF , 1905px 1080px #FFF , 1345px 515px #FFF , 531px 1099px #FFF , 407px 1341px #FFF , 427px 613px #FFF , 1493px 1158px #FFF , 1730px 1350px #FFF , 1091px 1286px #FFF , 495px 408px #FFF , 577px 1591px #FFF , 1893px 1056px #FFF , 1533px 1595px #FFF , 242px 1908px #FFF , 638px 59px #FFF , 1201px 1891px #FFF , 1568px 1533px #FFF , 803px 1803px #FFF , 1982px 1644px #FFF , 1402px 119px #FFF , 1495px 1352px #FFF , 1163px 1481px #FFF , 1005px 660px #FFF , 302px 1466px #FFF , 1622px 1074px #FFF , 490px 35px #FFF , 288px 1186px #FFF , 820px 659px #FFF , 1716px 965px #FFF , 1933px 626px #FFF , 1079px 946px #FFF , 1537px 1169px #FFF , 764px 615px #FFF , 1534px 391px #FFF , 1594px 606px #FFF , 196px 1857px #FFF , 492px 22px #FFF , 1365px 772px #FFF , 1596px 120px #FFF , 203px 235px #FFF , 1120px 1860px #FFF , 1253px 546px #FFF , 1710px 786px #FFF , 1946px 1359px #FFF , 1033px 1931px #FFF , 1014px 1944px #FFF , 870px 1709px #FFF , 666px 786px #FFF , 1574px 1766px #FFF , 1598px 881px #FFF , 805px 425px #FFF , 895px 367px #FFF , 552px 82px #FFF , 1303px 1757px #FFF , 1313px 1154px #FFF , 631px 206px #FFF , 1400px 1438px #FFF , 964px 1277px #FFF , 463px 1479px #FFF , 1572px 976px #FFF , 1200px 1089px #FFF , 1591px 1625px #FFF , 191px 288px #FFF , 228px 743px #FFF , 478px 1062px #FFF , 128px 1241px #FFF , 671px 452px #FFF , 1447px 1541px #FFF , 1811px 1094px #FFF , 909px 1658px #FFF , 1975px 1349px #FFF , 1277px 1630px #FFF , 839px 937px #FFF , 1886px 1480px #FFF , 364px 582px #FFF , 217px 1870px #FFF , 205px 1584px #FFF , 330px 629px #FFF , 1729px 1976px #FFF , 961px 573px #FFF , 351px 533px #FFF , 983px 234px #FFF , 1452px 1289px #FFF , 1587px 1100px #FFF , 867px 364px #FFF , 991px 1116px #FFF , 1919px 282px #FFF , 932px 264px #FFF , 60px 954px #FFF , 362px 90px #FFF , 415px 527px #FFF , 1644px 1603px #FFF , 1365px 1315px #FFF , 1964px 1327px #FFF , 596px 1703px #FFF , 1568px 1722px #FFF , 1804px 337px #FFF , 641px 653px #FFF , 501px 1754px #FFF , 1918px 455px #FFF , 1092px 528px #FFF , 1019px 519px #FFF , 196px 701px #FFF , 33px 874px #FFF , 613px 159px #FFF , 1694px 683px #FFF , 1449px 59px #FFF , 430px 1591px #FFF , 1256px 698px #FFF , 975px 1766px #FFF , 567px 1459px #FFF , 581px 403px #FFF , 2000px 1495px #FFF , 560px 1990px #FFF , 630px 1428px #FFF , 307px 1721px #FFF , 49px 1083px #FFF , 86px 693px #FFF , 489px 778px #FFF , 1342px 1504px #FFF , 128px 1097px #FFF , 608px 1159px #FFF , 1692px 257px #FFF , 1020px 1225px #FFF , 1089px 753px #FFF , 1839px 173px #FFF , 1185px 378px #FFF , 825px 752px #FFF , 89px 1005px #FFF , 846px 1702px #FFF , 1077px 1016px #FFF , 552px 337px #FFF , 1879px 89px #FFF , 478px 1629px #FFF , 1767px 118px #FFF , 1119px 745px #FFF , 120px 639px #FFF , 695px 466px #FFF , 781px 1783px #FFF , 448px 432px #FFF , 121px 217px #FFF , 1986px 381px #FFF , 231px 1161px #FFF , 1322px 7px #FFF , 1541px 877px #FFF , 1996px 1563px #FFF , 833px 135px #FFF , 349px 148px #FFF , 127px 406px #FFF , 1869px 1987px #FFF , 782px 217px #FFF , 544px 1279px #FFF , 777px 592px #FFF , 1071px 1939px #FFF , 1911px 156px #FFF , 1862px 1554px #FFF , 1840px 1793px #FFF , 1370px 1003px #FFF , 702px 1259px #FFF , 63px 1521px #FFF , 779px 1164px #FFF , 326px 1019px #FFF , 133px 1662px #FFF , 550px 633px #FFF , 81px 1420px #FFF , 1633px 678px #FFF , 922px 343px #FFF , 276px 736px #FFF , 1535px 46px #FFF , 581px 565px #FFF , 1968px 1717px #FFF , 357px 39px #FFF , 1350px 1801px #FFF , 366px 463px #FFF , 98px 1861px #FFF , 1697px 237px #FFF , 6px 102px #FFF , 1664px 1158px #FFF , 1839px 77px #FFF , 1125px 528px #FFF , 449px 162px #FFF , 1113px 893px #FFF , 1330px 1497px #FFF , 352px 373px #FFF , 1128px 1941px #FFF , 1229px 1134px #FFF , 934px 1312px #FFF , 1726px 589px #FFF , 910px 290px #FFF , 1865px 1422px #FFF , 308px 1918px #FFF , 280px 1785px #FFF , 1434px 132px #FFF , 1201px 1858px #FFF , 1283px 481px #FFF , 1997px 1940px #FFF , 737px 1339px #FFF , 1836px 702px #FFF , 785px 1339px #FFF , 690px 6px #FFF , 61px 771px #FFF , 32px 51px #FFF , 1021px 70px #FFF , 502px 566px #FFF , 1154px 826px #FFF , 605px 1012px #FFF , 1411px 1002px #FFF , 900px 1308px #FFF , 665px 947px #FFF , 1171px 1603px #FFF , 1593px 342px #FFF , 1658px 945px #FFF , 1013px 436px #FFF , 834px 549px #FFF , 1611px 434px #FFF , 940px 838px #FFF , 687px 851px #FFF , 241px 961px #FFF , 1645px 301px #FFF , 90px 72px #FFF , 1379px 1417px #FFF , 504px 1155px #FFF , 809px 1815px #FFF , 829px 172px #FFF , 275px 1364px #FFF , 964px 1046px #FFF , 1407px 33px #FFF , 340px 837px #FFF , 443px 278px #FFF , 951px 1627px #FFF , 618px 1952px #FFF , 1356px 1688px #FFF , 623px 261px #FFF , 320px 854px #FFF , 1763px 112px #FFF , 276px 1728px #FFF , 1171px 1510px #FFF , 797px 1152px #FFF , 110px 1686px #FFF , 1318px 1815px #FFF , 282px 1540px #FFF , 157px 1522px #FFF , 411px 760px #FFF , 1785px 218px #FFF , 525px 1811px #FFF , 1919px 1349px #FFF , 1351px 861px #FFF , 202px 1914px #FFF , 1188px 734px #FFF , 155px 202px #FFF , 463px 667px #FFF , 1613px 1613px #FFF , 301px 534px #FFF , 384px 1486px #FFF , 1134px 1126px #FFF , 337px 493px #FFF , 1324px 1637px #FFF , 878px 228px #FFF , 1740px 281px #FFF , 1937px 1503px #FFF , 135px 1869px #FFF , 1485px 1549px #FFF , 369px 1785px #FFF , 1903px 170px #FFF , 227px 1273px #FFF , 456px 698px #FFF , 38px 1591px #FFF , 1812px 1279px #FFF , 366px 1859px #FFF , 701px 1655px #FFF , 1411px 883px #FFF , 1366px 808px #FFF , 1718px 1110px #FFF , 1670px 349px #FFF , 1851px 1897px #FFF , 1010px 1155px #FFF , 1358px 1296px #FFF , 599px 319px #FFF , 107px 1966px #FFF , 1857px 1189px #FFF , 256px 1842px #FFF , 966px 25px #FFF , 497px 245px #FFF , 551px 1759px #FFF , 786px 1638px #FFF , 1088px 1525px #FFF , 362px 239px #FFF , 847px 890px #FFF , 287px 384px #FFF , 1014px 368px #FFF , 1048px 666px #FFF , 1515px 1769px #FFF , 1123px 1049px #FFF , 750px 1187px #FFF , 574px 1019px #FFF , 1454px 101px #FFF , 422px 214px #FFF , 581px 761px #FFF , 1353px 568px #FFF , 120px 944px #FFF , 411px 514px #FFF , 1240px 697px #FFF , 1005px 1356px #FFF , 128px 809px #FFF , 1761px 1468px #FFF , 382px 1300px #FFF , 59px 1453px #FFF , 1635px 1120px #FFF , 1095px 335px #FFF , 767px 1146px #FFF , 1114px 1057px #FFF , 646px 1604px #FFF , 1048px 68px #FFF , 1298px 865px #FFF , 1925px 1534px #FFF , 1576px 1206px #FFF , 335px 1668px #FFF , 557px 1272px #FFF , 521px 907px #FFF , 1348px 491px #FFF , 39px 118px #FFF , 316px 1227px #FFF , 600px 663px #FFF , 184px 517px #FFF , 1658px 1971px #FFF , 1810px 559px #FFF , 240px 32px #FFF , 259px 347px #FFF , 61px 803px #FFF , 1496px 1603px #FFF , 1667px 1860px #FFF , 333px 886px #FFF , 1986px 1292px #FFF , 593px 219px #FFF , 1708px 451px #FFF , 347px 761px #FFF , 1306px 240px #FFF , 1748px 1101px #FFF , 1447px 459px #FFF , 1336px 658px #FFF , 1107px 1799px #FFF , 480px 1017px #FFF , 941px 147px #FFF , 1967px 1312px #FFF , 474px 595px #FFF , 1631px 160px #FFF , 343px 1902px #FFF , 1702px 641px #FFF , 744px 1474px #FFF , 760px 255px #FFF , 633px 1947px #FFF , 833px 718px #FFF , 811px 1566px #FFF , 1756px 516px #FFF , 1459px 1460px #FFF , 208px 367px #FFF , 1519px 1328px #FFF , 1915px 1459px #FFF , 1525px 615px #FFF , 994px 1602px #FFF , 477px 610px #FFF , 1970px 1651px #FFF , 1747px 1304px #FFF , 1182px 745px #FFF , 1413px 1462px #FFF , 64px 569px #FFF , 1016px 1350px #FFF , 1199px 923px #FFF , 553px 931px #FFF , 218px 743px #FFF , 192px 1757px #FFF , 71px 42px #FFF , 771px 632px #FFF , 617px 1756px #FFF , 879px 1099px #FFF , 1184px 1940px #FFF , 1613px 1693px #FFF , 1445px 1213px #FFF , 1478px 959px #FFF , 903px 1577px #FFF , 25px 1072px #FFF , 144px 1682px #FFF , 654px 1695px #FFF , 290px 444px #FFF , 1400px 994px #FFF , 1241px 489px #FFF , 927px 385px #FFF , 391px 1795px #FFF , 1207px 698px #FFF , 1511px 488px #FFF , 193px 1280px #FFF , 52px 98px #FFF , 1813px 322px #FFF , 1137px 888px #FFF , 812px 475px #FFF , 1044px 1191px #FFF , 1408px 1946px #FFF , 1215px 618px #FFF , 838px 1789px #FFF , 1985px 1497px #FFF , 1395px 2px #FFF , 916px 757px #FFF , 1431px 1050px #FFF , 1299px 787px #FFF , 1598px 1105px #FFF , 1643px 1487px #FFF , 1685px 1161px #FFF , 1001px 1083px #FFF , 1081px 998px #FFF , 1373px 516px #FFF , 967px 1846px #FFF , 826px 1507px #FFF , 398px 1886px #FFF , 123px 607px #FFF , 1969px 1624px #FFF , 176px 619px #FFF , 39px 1264px #FFF , 693px 844px #FFF , 1440px 1835px #FFF , 1954px 1673px #FFF , 976px 1969px #FFF , 1419px 477px #FFF , 1417px 1799px #FFF , 1196px 882px #FFF , 733px 1126px #FFF , 154px 1238px #FFF , 735px 475px #FFF , 598px 596px #FFF , 1563px 1334px #FFF , 630px 1786px #FFF , 1539px 586px #FFF , 889px 114px #FFF , 150px 1435px #FFF , 962px 820px #FFF , 1357px 852px #FFF , 1224px 554px #FFF , 1730px 1106px #FFF , 1690px 314px #FFF , 213px 1431px #FFF , 978px 1569px #FFF , 1689px 22px #FFF , 6px 1800px #FFF , 745px 99px #FFF , 267px 512px #FFF , 671px 1452px #FFF , 317px 1726px #FFF , 1726px 1226px #FFF , 1691px 1604px #FFF , 219px 1648px #FFF , 428px 1580px #FFF , 896px 1463px #FFF , 283px 743px #FFF , 1312px 1959px #FFF , 1152px 1382px #FFF , 1440px 1946px #FFF , 1833px 513px #FFF , 1891px 347px #FFF , 200px 1835px #FFF , 866px 1367px #FFF , 9px 1285px #FFF , 514px 1956px #FFF , 1039px 1805px #FFF , 966px 405px #FFF , 1529px 144px #FFF , 33px 845px #FFF , 997px 226px #FFF , 1804px 1670px #FFF , 1053px 827px #FFF , 1728px 1367px #FFF , 78px 453px #FFF , 369px 1136px #FFF , 167px 970px #FFF , 1477px 1541px #FFF , 567px 961px #FFF , 955px 996px #FFF , 152px 1993px #FFF , 29px 1268px #FFF , 299px 1595px #FFF , 666px 683px #FFF , 350px 1482px #FFF , 1722px 1176px #FFF , 1402px 566px #FFF , 1341px 183px #FFF , 1627px 1636px #FFF , 1393px 724px #FFF , 111px 546px #FFF , 285px 1013px #FFF , 750px 1018px #FFF , 1399px 926px #FFF , 605px 844px #FFF , 1392px 1000px #FFF , 282px 699px #FFF , 1602px 184px #FFF , 822px 1436px #FFF , 1937px 1258px #FFF , 656px 942px #FFF , 1666px 890px #FFF , 257px 1724px #FFF , 265px 400px #FFF , 1930px 839px #FFF , 816px 1028px #FFF , 1900px 1532px #FFF , 1951px 1950px #FFF , 127px 1419px #FFF , 1627px 890px #FFF , 1856px 71px #FFF , 1475px 909px #FFF , 813px 1595px #FFF , 991px 1237px #FFF , 1277px 1508px #FFF , 574px 278px #FFF , 715px 1962px #FFF , 1407px 369px #FFF , 1802px 865px #FFF , 1887px 1449px #FFF , 634px 29px #FFF , 803px 1249px #FFF , 1939px 1474px #FFF , 1071px 40px #FFF , 1785px 340px #FFF , 1569px 106px #FFF , 1980px 1062px #FFF , 742px 1318px #FFF , 1135px 124px #FFF , 345px 656px #FFF , 1379px 377px #FFF , 919px 789px #FFF , 1084px 1374px #FFF , 776px 1894px #FFF , 1124px 740px #FFF , 1429px 1310px #FFF , 1667px 456px #FFF , 155px 16px #FFF , 545px 375px #FFF , 1432px 775px #FFF , 1649px 295px #FFF , 1660px 1839px #FFF , 926px 1392px #FFF , 1936px 124px #FFF , 508px 124px #FFF , 182px 1209px #FFF , 1622px 16px #FFF , 1570px 1126px #FFF , 1889px 518px #FFF , 1349px 1016px #FFF , 1462px 394px #FFF , 1262px 1927px #FFF , 171px 405px #FFF , 1017px 1666px #FFF , 897px 1084px #FFF , 486px 1326px #FFF , 1243px 1734px #FFF , 941px 849px #FFF , 1136px 274px #FFF , 407px 1982px #FFF , 636px 94px #FFF , 568px 1348px #FFF , 265px 944px #FFF , 1498px 1046px #FFF , 524px 1660px #FFF , 1292px 1563px #FFF , 645px 411px #FFF , 1832px 668px #FFF , 1077px 1125px #FFF , 124px 325px #FFF , 898px 1986px #FFF;
+  animation: animStar 50s linear infinite;
+}
+#stars:after {
+  content: " ";
+  position: absolute;
+  top: 2000px;
+  width: 1px;
+  height: 1px;
+  background: transparent;
+  box-shadow: 320px 176px #FFF , 83px 331px #FFF , 1837px 806px #FFF , 1153px 1594px #FFF , 220px 988px #FFF , 833px 946px #FFF , 276px 414px #FFF , 560px 499px #FFF , 5px 1118px #FFF , 62px 1508px #FFF , 1758px 98px #FFF , 37px 254px #FFF , 1003px 566px #FFF , 1985px 1546px #FFF , 218px 259px #FFF , 1104px 1081px #FFF , 1097px 1310px #FFF , 359px 1785px #FFF , 1549px 180px #FFF , 1826px 992px #FFF , 1487px 673px #FFF , 302px 546px #FFF , 1446px 1014px #FFF , 600px 471px #FFF , 783px 1681px #FFF , 1930px 1771px #FFF , 1331px 1643px #FFF , 507px 1965px #FFF , 1658px 1696px #FFF , 971px 1855px #FFF , 1036px 93px #FFF , 1605px 1669px #FFF , 1525px 1037px #FFF , 559px 1409px #FFF , 82px 270px #FFF , 343px 710px #FFF , 1294px 1740px #FFF , 376px 1415px #FFF , 1742px 964px #FFF , 877px 515px #FFF , 1057px 1252px #FFF , 1484px 1565px #FFF , 1736px 1039px #FFF , 1626px 391px #FFF , 70px 1448px #FFF , 90px 1635px #FFF , 688px 292px #FFF , 374px 651px #FFF , 1865px 700px #FFF , 546px 277px #FFF , 1452px 208px #FFF , 566px 50px #FFF , 1110px 276px #FFF , 459px 255px #FFF , 364px 1492px #FFF , 487px 774px #FFF , 380px 1699px #FFF , 1206px 1634px #FFF , 201px 1394px #FFF , 1071px 1208px #FFF , 1932px 519px #FFF , 872px 855px #FFF , 1400px 123px #FFF , 1731px 1375px #FFF , 853px 1343px #FFF , 404px 1820px #FFF , 1008px 1245px #FFF , 799px 1239px #FFF , 1214px 1799px #FFF , 7px 1709px #FFF , 726px 985px #FFF , 1903px 349px #FFF , 1164px 1728px #FFF , 1460px 1877px #FFF , 1933px 330px #FFF , 1583px 1998px #FFF , 713px 1139px #FFF , 1175px 1764px #FFF , 376px 943px #FFF , 620px 1624px #FFF , 1749px 1886px #FFF , 1260px 199px #FFF , 141px 1993px #FFF , 828px 1101px #FFF , 1700px 1678px #FFF , 1924px 794px #FFF , 591px 522px #FFF , 95px 201px #FFF , 391px 1889px #FFF , 872px 1595px #FFF , 755px 1754px #FFF , 1048px 5px #FFF , 138px 1162px #FFF , 604px 1322px #FFF , 1826px 1325px #FFF , 1879px 1915px #FFF , 1418px 213px #FFF , 1201px 407px #FFF , 954px 402px #FFF , 1755px 1632px #FFF , 1202px 1839px #FFF , 1465px 11px #FFF , 503px 1874px #FFF , 761px 1322px #FFF , 1283px 1328px #FFF , 1861px 449px #FFF , 626px 1321px #FFF , 1834px 1702px #FFF , 609px 1566px #FFF , 1298px 339px #FFF , 1304px 459px #FFF , 79px 1428px #FFF , 336px 689px #FFF , 1770px 1098px #FFF , 156px 1119px #FFF , 451px 33px #FFF , 1346px 813px #FFF , 760px 23px #FFF , 707px 1612px #FFF , 1998px 794px #FFF , 3px 618px #FFF , 1990px 388px #FFF , 1275px 1336px #FFF , 1210px 1358px #FFF , 775px 278px #FFF , 1969px 559px #FFF , 867px 1710px #FFF , 1374px 1625px #FFF , 1147px 1489px #FFF , 984px 857px #FFF , 679px 515px #FFF , 1187px 1839px #FFF , 289px 1900px #FFF , 1579px 1766px #FFF , 510px 254px #FFF , 1905px 1080px #FFF , 1345px 515px #FFF , 531px 1099px #FFF , 407px 1341px #FFF , 427px 613px #FFF , 1493px 1158px #FFF , 1730px 1350px #FFF , 1091px 1286px #FFF , 495px 408px #FFF , 577px 1591px #FFF , 1893px 1056px #FFF , 1533px 1595px #FFF , 242px 1908px #FFF , 638px 59px #FFF , 1201px 1891px #FFF , 1568px 1533px #FFF , 803px 1803px #FFF , 1982px 1644px #FFF , 1402px 119px #FFF , 1495px 1352px #FFF , 1163px 1481px #FFF , 1005px 660px #FFF , 302px 1466px #FFF , 1622px 1074px #FFF , 490px 35px #FFF , 288px 1186px #FFF , 820px 659px #FFF , 1716px 965px #FFF , 1933px 626px #FFF , 1079px 946px #FFF , 1537px 1169px #FFF , 764px 615px #FFF , 1534px 391px #FFF , 1594px 606px #FFF , 196px 1857px #FFF , 492px 22px #FFF , 1365px 772px #FFF , 1596px 120px #FFF , 203px 235px #FFF , 1120px 1860px #FFF , 1253px 546px #FFF , 1710px 786px #FFF , 1946px 1359px #FFF , 1033px 1931px #FFF , 1014px 1944px #FFF , 870px 1709px #FFF , 666px 786px #FFF , 1574px 1766px #FFF , 1598px 881px #FFF , 805px 425px #FFF , 895px 367px #FFF , 552px 82px #FFF , 1303px 1757px #FFF , 1313px 1154px #FFF , 631px 206px #FFF , 1400px 1438px #FFF , 964px 1277px #FFF , 463px 1479px #FFF , 1572px 976px #FFF , 1200px 1089px #FFF , 1591px 1625px #FFF , 191px 288px #FFF , 228px 743px #FFF , 478px 1062px #FFF , 128px 1241px #FFF , 671px 452px #FFF , 1447px 1541px #FFF , 1811px 1094px #FFF , 909px 1658px #FFF , 1975px 1349px #FFF , 1277px 1630px #FFF , 839px 937px #FFF , 1886px 1480px #FFF , 364px 582px #FFF , 217px 1870px #FFF , 205px 1584px #FFF , 330px 629px #FFF , 1729px 1976px #FFF , 961px 573px #FFF , 351px 533px #FFF , 983px 234px #FFF , 1452px 1289px #FFF , 1587px 1100px #FFF , 867px 364px #FFF , 991px 1116px #FFF , 1919px 282px #FFF , 932px 264px #FFF , 60px 954px #FFF , 362px 90px #FFF , 415px 527px #FFF , 1644px 1603px #FFF , 1365px 1315px #FFF , 1964px 1327px #FFF , 596px 1703px #FFF , 1568px 1722px #FFF , 1804px 337px #FFF , 641px 653px #FFF , 501px 1754px #FFF , 1918px 455px #FFF , 1092px 528px #FFF , 1019px 519px #FFF , 196px 701px #FFF , 33px 874px #FFF , 613px 159px #FFF , 1694px 683px #FFF , 1449px 59px #FFF , 430px 1591px #FFF , 1256px 698px #FFF , 975px 1766px #FFF , 567px 1459px #FFF , 581px 403px #FFF , 2000px 1495px #FFF , 560px 1990px #FFF , 630px 1428px #FFF , 307px 1721px #FFF , 49px 1083px #FFF , 86px 693px #FFF , 489px 778px #FFF , 1342px 1504px #FFF , 128px 1097px #FFF , 608px 1159px #FFF , 1692px 257px #FFF , 1020px 1225px #FFF , 1089px 753px #FFF , 1839px 173px #FFF , 1185px 378px #FFF , 825px 752px #FFF , 89px 1005px #FFF , 846px 1702px #FFF , 1077px 1016px #FFF , 552px 337px #FFF , 1879px 89px #FFF , 478px 1629px #FFF , 1767px 118px #FFF , 1119px 745px #FFF , 120px 639px #FFF , 695px 466px #FFF , 781px 1783px #FFF , 448px 432px #FFF , 121px 217px #FFF , 1986px 381px #FFF , 231px 1161px #FFF , 1322px 7px #FFF , 1541px 877px #FFF , 1996px 1563px #FFF , 833px 135px #FFF , 349px 148px #FFF , 127px 406px #FFF , 1869px 1987px #FFF , 782px 217px #FFF , 544px 1279px #FFF , 777px 592px #FFF , 1071px 1939px #FFF , 1911px 156px #FFF , 1862px 1554px #FFF , 1840px 1793px #FFF , 1370px 1003px #FFF , 702px 1259px #FFF , 63px 1521px #FFF , 779px 1164px #FFF , 326px 1019px #FFF , 133px 1662px #FFF , 550px 633px #FFF , 81px 1420px #FFF , 1633px 678px #FFF , 922px 343px #FFF , 276px 736px #FFF , 1535px 46px #FFF , 581px 565px #FFF , 1968px 1717px #FFF , 357px 39px #FFF , 1350px 1801px #FFF , 366px 463px #FFF , 98px 1861px #FFF , 1697px 237px #FFF , 6px 102px #FFF , 1664px 1158px #FFF , 1839px 77px #FFF , 1125px 528px #FFF , 449px 162px #FFF , 1113px 893px #FFF , 1330px 1497px #FFF , 352px 373px #FFF , 1128px 1941px #FFF , 1229px 1134px #FFF , 934px 1312px #FFF , 1726px 589px #FFF , 910px 290px #FFF , 1865px 1422px #FFF , 308px 1918px #FFF , 280px 1785px #FFF , 1434px 132px #FFF , 1201px 1858px #FFF , 1283px 481px #FFF , 1997px 1940px #FFF , 737px 1339px #FFF , 1836px 702px #FFF , 785px 1339px #FFF , 690px 6px #FFF , 61px 771px #FFF , 32px 51px #FFF , 1021px 70px #FFF , 502px 566px #FFF , 1154px 826px #FFF , 605px 1012px #FFF , 1411px 1002px #FFF , 900px 1308px #FFF , 665px 947px #FFF , 1171px 1603px #FFF , 1593px 342px #FFF , 1658px 945px #FFF , 1013px 436px #FFF , 834px 549px #FFF , 1611px 434px #FFF , 940px 838px #FFF , 687px 851px #FFF , 241px 961px #FFF , 1645px 301px #FFF , 90px 72px #FFF , 1379px 1417px #FFF , 504px 1155px #FFF , 809px 1815px #FFF , 829px 172px #FFF , 275px 1364px #FFF , 964px 1046px #FFF , 1407px 33px #FFF , 340px 837px #FFF , 443px 278px #FFF , 951px 1627px #FFF , 618px 1952px #FFF , 1356px 1688px #FFF , 623px 261px #FFF , 320px 854px #FFF , 1763px 112px #FFF , 276px 1728px #FFF , 1171px 1510px #FFF , 797px 1152px #FFF , 110px 1686px #FFF , 1318px 1815px #FFF , 282px 1540px #FFF , 157px 1522px #FFF , 411px 760px #FFF , 1785px 218px #FFF , 525px 1811px #FFF , 1919px 1349px #FFF , 1351px 861px #FFF , 202px 1914px #FFF , 1188px 734px #FFF , 155px 202px #FFF , 463px 667px #FFF , 1613px 1613px #FFF , 301px 534px #FFF , 384px 1486px #FFF , 1134px 1126px #FFF , 337px 493px #FFF , 1324px 1637px #FFF , 878px 228px #FFF , 1740px 281px #FFF , 1937px 1503px #FFF , 135px 1869px #FFF , 1485px 1549px #FFF , 369px 1785px #FFF , 1903px 170px #FFF , 227px 1273px #FFF , 456px 698px #FFF , 38px 1591px #FFF , 1812px 1279px #FFF , 366px 1859px #FFF , 701px 1655px #FFF , 1411px 883px #FFF , 1366px 808px #FFF , 1718px 1110px #FFF , 1670px 349px #FFF , 1851px 1897px #FFF , 1010px 1155px #FFF , 1358px 1296px #FFF , 599px 319px #FFF , 107px 1966px #FFF , 1857px 1189px #FFF , 256px 1842px #FFF , 966px 25px #FFF , 497px 245px #FFF , 551px 1759px #FFF , 786px 1638px #FFF , 1088px 1525px #FFF , 362px 239px #FFF , 847px 890px #FFF , 287px 384px #FFF , 1014px 368px #FFF , 1048px 666px #FFF , 1515px 1769px #FFF , 1123px 1049px #FFF , 750px 1187px #FFF , 574px 1019px #FFF , 1454px 101px #FFF , 422px 214px #FFF , 581px 761px #FFF , 1353px 568px #FFF , 120px 944px #FFF , 411px 514px #FFF , 1240px 697px #FFF , 1005px 1356px #FFF , 128px 809px #FFF , 1761px 1468px #FFF , 382px 1300px #FFF , 59px 1453px #FFF , 1635px 1120px #FFF , 1095px 335px #FFF , 767px 1146px #FFF , 1114px 1057px #FFF , 646px 1604px #FFF , 1048px 68px #FFF , 1298px 865px #FFF , 1925px 1534px #FFF , 1576px 1206px #FFF , 335px 1668px #FFF , 557px 1272px #FFF , 521px 907px #FFF , 1348px 491px #FFF , 39px 118px #FFF , 316px 1227px #FFF , 600px 663px #FFF , 184px 517px #FFF , 1658px 1971px #FFF , 1810px 559px #FFF , 240px 32px #FFF , 259px 347px #FFF , 61px 803px #FFF , 1496px 1603px #FFF , 1667px 1860px #FFF , 333px 886px #FFF , 1986px 1292px #FFF , 593px 219px #FFF , 1708px 451px #FFF , 347px 761px #FFF , 1306px 240px #FFF , 1748px 1101px #FFF , 1447px 459px #FFF , 1336px 658px #FFF , 1107px 1799px #FFF , 480px 1017px #FFF , 941px 147px #FFF , 1967px 1312px #FFF , 474px 595px #FFF , 1631px 160px #FFF , 343px 1902px #FFF , 1702px 641px #FFF , 744px 1474px #FFF , 760px 255px #FFF , 633px 1947px #FFF , 833px 718px #FFF , 811px 1566px #FFF , 1756px 516px #FFF , 1459px 1460px #FFF , 208px 367px #FFF , 1519px 1328px #FFF , 1915px 1459px #FFF , 1525px 615px #FFF , 994px 1602px #FFF , 477px 610px #FFF , 1970px 1651px #FFF , 1747px 1304px #FFF , 1182px 745px #FFF , 1413px 1462px #FFF , 64px 569px #FFF , 1016px 1350px #FFF , 1199px 923px #FFF , 553px 931px #FFF , 218px 743px #FFF , 192px 1757px #FFF , 71px 42px #FFF , 771px 632px #FFF , 617px 1756px #FFF , 879px 1099px #FFF , 1184px 1940px #FFF , 1613px 1693px #FFF , 1445px 1213px #FFF , 1478px 959px #FFF , 903px 1577px #FFF , 25px 1072px #FFF , 144px 1682px #FFF , 654px 1695px #FFF , 290px 444px #FFF , 1400px 994px #FFF , 1241px 489px #FFF , 927px 385px #FFF , 391px 1795px #FFF , 1207px 698px #FFF , 1511px 488px #FFF , 193px 1280px #FFF , 52px 98px #FFF , 1813px 322px #FFF , 1137px 888px #FFF , 812px 475px #FFF , 1044px 1191px #FFF , 1408px 1946px #FFF , 1215px 618px #FFF , 838px 1789px #FFF , 1985px 1497px #FFF , 1395px 2px #FFF , 916px 757px #FFF , 1431px 1050px #FFF , 1299px 787px #FFF , 1598px 1105px #FFF , 1643px 1487px #FFF , 1685px 1161px #FFF , 1001px 1083px #FFF , 1081px 998px #FFF , 1373px 516px #FFF , 967px 1846px #FFF , 826px 1507px #FFF , 398px 1886px #FFF , 123px 607px #FFF , 1969px 1624px #FFF , 176px 619px #FFF , 39px 1264px #FFF , 693px 844px #FFF , 1440px 1835px #FFF , 1954px 1673px #FFF , 976px 1969px #FFF , 1419px 477px #FFF , 1417px 1799px #FFF , 1196px 882px #FFF , 733px 1126px #FFF , 154px 1238px #FFF , 735px 475px #FFF , 598px 596px #FFF , 1563px 1334px #FFF , 630px 1786px #FFF , 1539px 586px #FFF , 889px 114px #FFF , 150px 1435px #FFF , 962px 820px #FFF , 1357px 852px #FFF , 1224px 554px #FFF , 1730px 1106px #FFF , 1690px 314px #FFF , 213px 1431px #FFF , 978px 1569px #FFF , 1689px 22px #FFF , 6px 1800px #FFF , 745px 99px #FFF , 267px 512px #FFF , 671px 1452px #FFF , 317px 1726px #FFF , 1726px 1226px #FFF , 1691px 1604px #FFF , 219px 1648px #FFF , 428px 1580px #FFF , 896px 1463px #FFF , 283px 743px #FFF , 1312px 1959px #FFF , 1152px 1382px #FFF , 1440px 1946px #FFF , 1833px 513px #FFF , 1891px 347px #FFF , 200px 1835px #FFF , 866px 1367px #FFF , 9px 1285px #FFF , 514px 1956px #FFF , 1039px 1805px #FFF , 966px 405px #FFF , 1529px 144px #FFF , 33px 845px #FFF , 997px 226px #FFF , 1804px 1670px #FFF , 1053px 827px #FFF , 1728px 1367px #FFF , 78px 453px #FFF , 369px 1136px #FFF , 167px 970px #FFF , 1477px 1541px #FFF , 567px 961px #FFF , 955px 996px #FFF , 152px 1993px #FFF , 29px 1268px #FFF , 299px 1595px #FFF , 666px 683px #FFF , 350px 1482px #FFF , 1722px 1176px #FFF , 1402px 566px #FFF , 1341px 183px #FFF , 1627px 1636px #FFF , 1393px 724px #FFF , 111px 546px #FFF , 285px 1013px #FFF , 750px 1018px #FFF , 1399px 926px #FFF , 605px 844px #FFF , 1392px 1000px #FFF , 282px 699px #FFF , 1602px 184px #FFF , 822px 1436px #FFF , 1937px 1258px #FFF , 656px 942px #FFF , 1666px 890px #FFF , 257px 1724px #FFF , 265px 400px #FFF , 1930px 839px #FFF , 816px 1028px #FFF , 1900px 1532px #FFF , 1951px 1950px #FFF , 127px 1419px #FFF , 1627px 890px #FFF , 1856px 71px #FFF , 1475px 909px #FFF , 813px 1595px #FFF , 991px 1237px #FFF , 1277px 1508px #FFF , 574px 278px #FFF , 715px 1962px #FFF , 1407px 369px #FFF , 1802px 865px #FFF , 1887px 1449px #FFF , 634px 29px #FFF , 803px 1249px #FFF , 1939px 1474px #FFF , 1071px 40px #FFF , 1785px 340px #FFF , 1569px 106px #FFF , 1980px 1062px #FFF , 742px 1318px #FFF , 1135px 124px #FFF , 345px 656px #FFF , 1379px 377px #FFF , 919px 789px #FFF , 1084px 1374px #FFF , 776px 1894px #FFF , 1124px 740px #FFF , 1429px 1310px #FFF , 1667px 456px #FFF , 155px 16px #FFF , 545px 375px #FFF , 1432px 775px #FFF , 1649px 295px #FFF , 1660px 1839px #FFF , 926px 1392px #FFF , 1936px 124px #FFF , 508px 124px #FFF , 182px 1209px #FFF , 1622px 16px #FFF , 1570px 1126px #FFF , 1889px 518px #FFF , 1349px 1016px #FFF , 1462px 394px #FFF , 1262px 1927px #FFF , 171px 405px #FFF , 1017px 1666px #FFF , 897px 1084px #FFF , 486px 1326px #FFF , 1243px 1734px #FFF , 941px 849px #FFF , 1136px 274px #FFF , 407px 1982px #FFF , 636px 94px #FFF , 568px 1348px #FFF , 265px 944px #FFF , 1498px 1046px #FFF , 524px 1660px #FFF , 1292px 1563px #FFF , 645px 411px #FFF , 1832px 668px #FFF , 1077px 1125px #FFF , 124px 325px #FFF , 898px 1986px #FFF;
+}
+
+#stars2 {
+  width: 2px;
+  height: 2px;
+  background: transparent;
+  box-shadow: 1656px 660px #FFF , 187px 1627px #FFF , 10px 165px #FFF , 1174px 1695px #FFF , 1988px 906px #FFF , 126px 702px #FFF , 114px 941px #FFF , 323px 354px #FFF , 1393px 602px #FFF , 95px 76px #FFF , 923px 471px #FFF , 1664px 189px #FFF , 510px 862px #FFF , 1847px 1994px #FFF , 285px 1787px #FFF , 976px 19px #FFF , 1903px 181px #FFF , 780px 464px #FFF , 1371px 475px #FFF , 1940px 1207px #FFF , 1369px 106px #FFF , 463px 124px #FFF , 851px 291px #FFF , 1637px 1373px #FFF , 1870px 1450px #FFF , 756px 1558px #FFF , 1057px 185px #FFF , 1481px 1922px #FFF , 608px 73px #FFF , 1167px 960px #FFF , 1159px 1499px #FFF , 1276px 1140px #FFF , 1338px 1776px #FFF , 1991px 1982px #FFF , 1671px 700px #FFF , 684px 312px #FFF , 1987px 331px #FFF , 539px 240px #FFF , 504px 314px #FFF , 526px 936px #FFF , 934px 309px #FFF , 1095px 1135px #FFF , 298px 517px #FFF , 331px 678px #FFF , 167px 979px #FFF , 55px 625px #FFF , 1185px 836px #FFF , 605px 1205px #FFF , 1549px 1067px #FFF , 1572px 838px #FFF , 280px 11px #FFF , 1808px 782px #FFF , 766px 1083px #FFF , 1154px 592px #FFF , 1403px 654px #FFF , 708px 1956px #FFF , 1412px 1440px #FFF , 1257px 1136px #FFF , 1641px 1800px #FFF , 1991px 1223px #FFF , 1307px 623px #FFF , 1618px 537px #FFF , 1875px 1123px #FFF , 401px 589px #FFF , 155px 242px #FFF , 1961px 1611px #FFF , 1053px 1205px #FFF , 692px 1009px #FFF , 1276px 1109px #FFF , 1559px 1310px #FFF , 1555px 712px #FFF , 1039px 1111px #FFF , 1248px 219px #FFF , 21px 1225px #FFF , 593px 1125px #FFF , 606px 1035px #FFF , 935px 464px #FFF , 844px 1080px #FFF , 696px 486px #FFF , 941px 1774px #FFF , 1345px 982px #FFF , 108px 553px #FFF , 1160px 1938px #FFF , 1213px 155px #FFF , 402px 229px #FFF , 1225px 1414px #FFF , 1811px 1398px #FFF , 1834px 567px #FFF , 1350px 808px #FFF , 184px 1327px #FFF , 1772px 1793px #FFF , 701px 1901px #FFF , 534px 619px #FFF , 739px 64px #FFF , 1773px 1567px #FFF , 1759px 383px #FFF , 1384px 771px #FFF , 518px 318px #FFF , 1214px 821px #FFF , 49px 903px #FFF , 1021px 1005px #FFF , 1367px 1442px #FFF , 714px 1991px #FFF , 1420px 698px #FFF , 1877px 61px #FFF , 790px 1707px #FFF , 168px 460px #FFF , 870px 1653px #FFF , 906px 808px #FFF , 1580px 314px #FFF , 60px 1806px #FFF , 709px 829px #FFF , 1981px 762px #FFF , 97px 1257px #FFF , 1518px 1657px #FFF , 37px 1553px #FFF , 1469px 64px #FFF , 1522px 1360px #FFF , 1665px 1430px #FFF , 1875px 1111px #FFF , 508px 1579px #FFF , 1891px 1650px #FFF , 159px 396px #FFF , 1964px 680px #FFF , 1341px 126px #FFF , 613px 781px #FFF , 1517px 1509px #FFF , 1154px 836px #FFF , 313px 1066px #FFF , 878px 1430px #FFF , 644px 1109px #FFF , 997px 1345px #FFF , 1499px 1670px #FFF , 294px 214px #FFF , 1572px 626px #FFF , 642px 1505px #FFF , 266px 1755px #FFF , 662px 1966px #FFF , 1635px 628px #FFF , 1248px 617px #FFF , 758px 1966px #FFF , 210px 1707px #FFF , 1493px 1560px #FFF , 1905px 1132px #FFF , 785px 146px #FFF , 245px 685px #FFF , 1281px 371px #FFF , 380px 302px #FFF , 280px 1740px #FFF , 553px 452px #FFF , 260px 726px #FFF , 1900px 1130px #FFF , 735px 664px #FFF , 1221px 717px #FFF , 1918px 1353px #FFF , 731px 737px #FFF , 1768px 1304px #FFF , 528px 178px #FFF , 1490px 600px #FFF , 1522px 1941px #FFF , 1581px 1148px #FFF , 1816px 273px #FFF , 503px 191px #FFF , 1254px 895px #FFF , 1539px 1989px #FFF , 235px 457px #FFF , 165px 765px #FFF , 1411px 460px #FFF , 1873px 1477px #FFF , 1728px 1410px #FFF , 1937px 853px #FFF , 1415px 1836px #FFF , 1273px 1413px #FFF , 160px 1354px #FFF , 1857px 1830px #FFF , 1791px 363px #FFF , 709px 165px #FFF , 1040px 1266px #FFF , 1736px 920px #FFF , 896px 1980px #FFF , 676px 355px #FFF , 691px 950px #FFF , 145px 1488px #FFF , 1237px 1935px #FFF , 1888px 1407px #FFF , 175px 103px #FFF , 1197px 1897px #FFF , 73px 1261px #FFF , 1907px 604px #FFF , 1598px 1656px #FFF , 986px 850px #FFF , 1088px 1126px #FFF , 600px 1114px #FFF , 1781px 1051px #FFF , 1481px 412px #FFF , 288px 774px #FFF , 1970px 1417px #FFF , 1938px 1246px #FFF , 513px 1993px #FFF , 851px 704px #FFF;
+  animation: animStar 100s linear infinite;
+}
+#stars2:after {
+  content: " ";
+  position: absolute;
+  top: 2000px;
+  width: 2px;
+  height: 2px;
+  background: transparent;
+  box-shadow: 1656px 660px #FFF , 187px 1627px #FFF , 10px 165px #FFF , 1174px 1695px #FFF , 1988px 906px #FFF , 126px 702px #FFF , 114px 941px #FFF , 323px 354px #FFF , 1393px 602px #FFF , 95px 76px #FFF , 923px 471px #FFF , 1664px 189px #FFF , 510px 862px #FFF , 1847px 1994px #FFF , 285px 1787px #FFF , 976px 19px #FFF , 1903px 181px #FFF , 780px 464px #FFF , 1371px 475px #FFF , 1940px 1207px #FFF , 1369px 106px #FFF , 463px 124px #FFF , 851px 291px #FFF , 1637px 1373px #FFF , 1870px 1450px #FFF , 756px 1558px #FFF , 1057px 185px #FFF , 1481px 1922px #FFF , 608px 73px #FFF , 1167px 960px #FFF , 1159px 1499px #FFF , 1276px 1140px #FFF , 1338px 1776px #FFF , 1991px 1982px #FFF , 1671px 700px #FFF , 684px 312px #FFF , 1987px 331px #FFF , 539px 240px #FFF , 504px 314px #FFF , 526px 936px #FFF , 934px 309px #FFF , 1095px 1135px #FFF , 298px 517px #FFF , 331px 678px #FFF , 167px 979px #FFF , 55px 625px #FFF , 1185px 836px #FFF , 605px 1205px #FFF , 1549px 1067px #FFF , 1572px 838px #FFF , 280px 11px #FFF , 1808px 782px #FFF , 766px 1083px #FFF , 1154px 592px #FFF , 1403px 654px #FFF , 708px 1956px #FFF , 1412px 1440px #FFF , 1257px 1136px #FFF , 1641px 1800px #FFF , 1991px 1223px #FFF , 1307px 623px #FFF , 1618px 537px #FFF , 1875px 1123px #FFF , 401px 589px #FFF , 155px 242px #FFF , 1961px 1611px #FFF , 1053px 1205px #FFF , 692px 1009px #FFF , 1276px 1109px #FFF , 1559px 1310px #FFF , 1555px 712px #FFF , 1039px 1111px #FFF , 1248px 219px #FFF , 21px 1225px #FFF , 593px 1125px #FFF , 606px 1035px #FFF , 935px 464px #FFF , 844px 1080px #FFF , 696px 486px #FFF , 941px 1774px #FFF , 1345px 982px #FFF , 108px 553px #FFF , 1160px 1938px #FFF , 1213px 155px #FFF , 402px 229px #FFF , 1225px 1414px #FFF , 1811px 1398px #FFF , 1834px 567px #FFF , 1350px 808px #FFF , 184px 1327px #FFF , 1772px 1793px #FFF , 701px 1901px #FFF , 534px 619px #FFF , 739px 64px #FFF , 1773px 1567px #FFF , 1759px 383px #FFF , 1384px 771px #FFF , 518px 318px #FFF , 1214px 821px #FFF , 49px 903px #FFF , 1021px 1005px #FFF , 1367px 1442px #FFF , 714px 1991px #FFF , 1420px 698px #FFF , 1877px 61px #FFF , 790px 1707px #FFF , 168px 460px #FFF , 870px 1653px #FFF , 906px 808px #FFF , 1580px 314px #FFF , 60px 1806px #FFF , 709px 829px #FFF , 1981px 762px #FFF , 97px 1257px #FFF , 1518px 1657px #FFF , 37px 1553px #FFF , 1469px 64px #FFF , 1522px 1360px #FFF , 1665px 1430px #FFF , 1875px 1111px #FFF , 508px 1579px #FFF , 1891px 1650px #FFF , 159px 396px #FFF , 1964px 680px #FFF , 1341px 126px #FFF , 613px 781px #FFF , 1517px 1509px #FFF , 1154px 836px #FFF , 313px 1066px #FFF , 878px 1430px #FFF , 644px 1109px #FFF , 997px 1345px #FFF , 1499px 1670px #FFF , 294px 214px #FFF , 1572px 626px #FFF , 642px 1505px #FFF , 266px 1755px #FFF , 662px 1966px #FFF , 1635px 628px #FFF , 1248px 617px #FFF , 758px 1966px #FFF , 210px 1707px #FFF , 1493px 1560px #FFF , 1905px 1132px #FFF , 785px 146px #FFF , 245px 685px #FFF , 1281px 371px #FFF , 380px 302px #FFF , 280px 1740px #FFF , 553px 452px #FFF , 260px 726px #FFF , 1900px 1130px #FFF , 735px 664px #FFF , 1221px 717px #FFF , 1918px 1353px #FFF , 731px 737px #FFF , 1768px 1304px #FFF , 528px 178px #FFF , 1490px 600px #FFF , 1522px 1941px #FFF , 1581px 1148px #FFF , 1816px 273px #FFF , 503px 191px #FFF , 1254px 895px #FFF , 1539px 1989px #FFF , 235px 457px #FFF , 165px 765px #FFF , 1411px 460px #FFF , 1873px 1477px #FFF , 1728px 1410px #FFF , 1937px 853px #FFF , 1415px 1836px #FFF , 1273px 1413px #FFF , 160px 1354px #FFF , 1857px 1830px #FFF , 1791px 363px #FFF , 709px 165px #FFF , 1040px 1266px #FFF , 1736px 920px #FFF , 896px 1980px #FFF , 676px 355px #FFF , 691px 950px #FFF , 145px 1488px #FFF , 1237px 1935px #FFF , 1888px 1407px #FFF , 175px 103px #FFF , 1197px 1897px #FFF , 73px 1261px #FFF , 1907px 604px #FFF , 1598px 1656px #FFF , 986px 850px #FFF , 1088px 1126px #FFF , 600px 1114px #FFF , 1781px 1051px #FFF , 1481px 412px #FFF , 288px 774px #FFF , 1970px 1417px #FFF , 1938px 1246px #FFF , 513px 1993px #FFF , 851px 704px #FFF;
+}
+
+#stars3 {
+  width: 3px;
+  height: 3px;
+  background: transparent;
+  box-shadow: 396px 1330px #FFF , 1677px 1288px #FFF , 1081px 1117px #FFF , 1982px 1409px #FFF , 1013px 1993px #FFF , 1734px 743px #FFF , 1736px 417px #FFF , 586px 1505px #FFF , 1536px 153px #FFF , 1469px 1905px #FFF , 570px 106px #FFF , 700px 393px #FFF , 1436px 271px #FFF , 302px 76px #FFF , 948px 1047px #FFF , 85px 157px #FFF , 1851px 66px #FFF , 1434px 1598px #FFF , 377px 485px #FFF , 964px 1043px #FFF , 1539px 1624px #FFF , 1501px 1762px #FFF , 1330px 257px #FFF , 338px 1559px #FFF , 510px 514px #FFF , 1813px 476px #FFF , 1010px 1516px #FFF , 1445px 88px #FFF , 563px 991px #FFF , 607px 935px #FFF , 1772px 759px #FFF , 753px 1225px #FFF , 461px 1255px #FFF , 1898px 48px #FFF , 1023px 1365px #FFF , 1999px 913px #FFF , 1156px 1120px #FFF , 495px 104px #FFF , 224px 1133px #FFF , 800px 298px #FFF , 679px 1731px #FFF , 81px 995px #FFF , 515px 582px #FFF , 1810px 970px #FFF , 1746px 287px #FFF , 1722px 872px #FFF , 1835px 1523px #FFF , 1150px 782px #FFF , 1585px 692px #FFF , 893px 1791px #FFF , 893px 1729px #FFF , 457px 975px #FFF , 104px 1049px #FFF , 614px 265px #FFF , 1821px 1864px #FFF , 1954px 1916px #FFF , 1266px 380px #FFF , 1225px 137px #FFF , 112px 1573px #FFF , 793px 712px #FFF , 807px 141px #FFF , 1394px 1623px #FFF , 1168px 1285px #FFF , 757px 235px #FFF , 1600px 1711px #FFF , 100px 1646px #FFF , 1010px 1121px #FFF , 1087px 1286px #FFF , 619px 1947px #FFF , 169px 69px #FFF , 715px 461px #FFF , 1399px 549px #FFF , 834px 1152px #FFF , 94px 983px #FFF , 1360px 1672px #FFF , 728px 1884px #FFF , 1345px 1743px #FFF , 1669px 541px #FFF , 1131px 176px #FFF , 368px 909px #FFF , 1368px 83px #FFF , 1344px 1880px #FFF , 488px 66px #FFF , 1187px 1496px #FFF , 1413px 1294px #FFF , 907px 1806px #FFF , 478px 223px #FFF , 200px 1101px #FFF , 1502px 449px #FFF , 1526px 190px #FFF , 405px 1692px #FFF , 1849px 1524px #FFF , 405px 735px #FFF , 146px 1877px #FFF , 312px 1957px #FFF , 1512px 1056px #FFF , 1540px 242px #FFF , 868px 1387px #FFF , 374px 1582px #FFF , 1617px 275px #FFF;
+  animation: animStar 150s linear infinite;
+}
+#stars3:after {
+  content: " ";
+  position: absolute;
+  top: 2000px;
+  width: 3px;
+  height: 3px;
+  background: transparent;
+  box-shadow: 396px 1330px #FFF , 1677px 1288px #FFF , 1081px 1117px #FFF , 1982px 1409px #FFF , 1013px 1993px #FFF , 1734px 743px #FFF , 1736px 417px #FFF , 586px 1505px #FFF , 1536px 153px #FFF , 1469px 1905px #FFF , 570px 106px #FFF , 700px 393px #FFF , 1436px 271px #FFF , 302px 76px #FFF , 948px 1047px #FFF , 85px 157px #FFF , 1851px 66px #FFF , 1434px 1598px #FFF , 377px 485px #FFF , 964px 1043px #FFF , 1539px 1624px #FFF , 1501px 1762px #FFF , 1330px 257px #FFF , 338px 1559px #FFF , 510px 514px #FFF , 1813px 476px #FFF , 1010px 1516px #FFF , 1445px 88px #FFF , 563px 991px #FFF , 607px 935px #FFF , 1772px 759px #FFF , 753px 1225px #FFF , 461px 1255px #FFF , 1898px 48px #FFF , 1023px 1365px #FFF , 1999px 913px #FFF , 1156px 1120px #FFF , 495px 104px #FFF , 224px 1133px #FFF , 800px 298px #FFF , 679px 1731px #FFF , 81px 995px #FFF , 515px 582px #FFF , 1810px 970px #FFF , 1746px 287px #FFF , 1722px 872px #FFF , 1835px 1523px #FFF , 1150px 782px #FFF , 1585px 692px #FFF , 893px 1791px #FFF , 893px 1729px #FFF , 457px 975px #FFF , 104px 1049px #FFF , 614px 265px #FFF , 1821px 1864px #FFF , 1954px 1916px #FFF , 1266px 380px #FFF , 1225px 137px #FFF , 112px 1573px #FFF , 793px 712px #FFF , 807px 141px #FFF , 1394px 1623px #FFF , 1168px 1285px #FFF , 757px 235px #FFF , 1600px 1711px #FFF , 100px 1646px #FFF , 1010px 1121px #FFF , 1087px 1286px #FFF , 619px 1947px #FFF , 169px 69px #FFF , 715px 461px #FFF , 1399px 549px #FFF , 834px 1152px #FFF , 94px 983px #FFF , 1360px 1672px #FFF , 728px 1884px #FFF , 1345px 1743px #FFF , 1669px 541px #FFF , 1131px 176px #FFF , 368px 909px #FFF , 1368px 83px #FFF , 1344px 1880px #FFF , 488px 66px #FFF , 1187px 1496px #FFF , 1413px 1294px #FFF , 907px 1806px #FFF , 478px 223px #FFF , 200px 1101px #FFF , 1502px 449px #FFF , 1526px 190px #FFF , 405px 1692px #FFF , 1849px 1524px #FFF , 405px 735px #FFF , 146px 1877px #FFF , 312px 1957px #FFF , 1512px 1056px #FFF , 1540px 242px #FFF , 868px 1387px #FFF , 374px 1582px #FFF , 1617px 275px #FFF;
+}
+
+
+
+@keyframes animStar {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-2000px);
+  }
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: white;
+    text-align: center;
+    font-family:BebasNeue, Helvetica, sans-serif;
+}
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  font-family: BebasNeue, Helvetica, Sans-serif;
+  color: white;
+  display: block;
+  transition: 0.5s;
+}
+
+.sidenav a:hover {
+  color: grey;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+.social-menu {
+  width: 100%;
+  display: inline-block;
+	float: right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  background-color: black;
+}
+.menu {
+	display: inline-block;
+	float: right;
+	color: white;
+}
+.menu .fa {
+  color: white;
+  font-size: 30px;
+  line-height: 50px;
+  transition: .5s;
+}
+.menu .fa:hover {
+  color: grey;
+}
+.menu a
+{
+	display: inline-block;
+	color: white;
+	float: right;
+	padding-top: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-decoration: none;
+	font-family: BebasNeue, Helvetica, Sans-serif;
+	font-size: 30px;
+	transition: .5s;
+}
+header {
+	background-color: black;
+	padding: 0px;
+	margin: 0px;
+  height: 90px;
+}
+body {
+	margin: 0px;
+  padding: 0px;
+  width: 100%;
+  height: 100%;
+}
+.three-lines {
+	float: left;
+	color: white;
+	display: inline-block;
+	padding: 20px;
+}
+.logo {
+	display: inline-block;
+	float: left;
+	text-align: center;
+	color: white;
+	padding: 0px;
+}
+.buttons {
+	display: inline-block;
+	text-align: center;
+	color: white;
+	float: left;
+}
+.buttons a{
+	display: inline-block;
+	color: white;
+	padding-top: 30px;
+	padding-left: 20px;
+	padding-right: 10px;
+	text-decoration: none;
+	font-family: BebasNeue, Helvetica, Sans-serif;
+	font-size: 25px;
+	transition: .5s;
+}
+.buttons a:hover {
+	color: grey;
+}
+@font-face {
+	font-family: BebasNeue;
+	src: url(BebasNeue-Regular.ttf);
+}
+.offers-menu {
+  width: 100%;
+  display: inline-block;
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+}
+.offers {
+  display: inline-block;
+	float: none;
+	text-align: center;
+}
+.offers a {
+  display: inline-block;
+	float: none;
+	color: white;
+	text-align: center;
+	padding: 15px;
+	padding-left: 20px;
+	padding-right: 20px;
+	text-decoration: none;
+	font-family: BebasNeue, Helvetica, Sans-serif;
+  font-size: 20px;
+  transition: 0.5s;
+}
+.offers a:hover {
+  color: grey;
+}
+table {
+  font-family: BebasNeue, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid left white;
+  text-align: center;
+}
+.center {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+  padding-top: 80px;
+}
+#panel {
+  padding: 50px;
+  display: none;
+  width: 100%;
+}
+#panel, #button {
+  padding: 5px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  font-family: BebasNeue, Helvetica, sans-serif;
+}
+#button {
+  width: 100px;
+  font-size: 20px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 4px;
+  left: 50%;
+}
+@media only screen and (min-width: 320px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 35px;
+    font-size: 42px;
+    margin-bottom: 0;
+    margin-top: 30px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 35px;
+    font-size: 17px;
+    margin-top: 0;
+  }
+  .buttons {
+    display: inline-block;
+    text-align: center;
+    color: white;
+  }
+  .buttons a{
+    display: inline-block;
+    color: white;
+    padding-top: 38px;
+    padding-left: 10px;
+    padding-right: 5px;
+    text-decoration: none;
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 15px;
+    transition: .5s;
+  }
+  .buttons a:hover {
+    color: grey;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 12px;
+    text-align: left;
+    float: left;
+    width: 32%;
+    margin-left: 11%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 12px;
+    text-align: left;
+    float: right;
+    margin-right: 11%;
+    width: 32%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 22%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 250px;
+    height: 250px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+  }
+  .offers-menu {
+    width: 100%;
+      display: inline-block;
+      text-align: center;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      position: fixed;
+  }
+  .offers {
+    display: inline-block;
+    float: none;
+    text-align: center;
+  }
+  .offers a {
+    display: inline-block;
+    float: none;
+    color: white;
+    text-align: center;
+    padding: 6px;
+    text-decoration: none;
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 9px;
+    transition: 0.5s;
+  }
+  .offers a:hover {
+    color: grey;
+  }
+  #panel {
+    padding: 50px;
+    display: none;
+    width: 100%;
+  }
+  #panel, #button {
+    padding: 5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-family: BebasNeue, Helvetica, sans-serif;
+    font-size: 5px;
+  }
+  .recolor {
+    width: 170px;
+    height: 250px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+  }
+  .corandrep {
+    width: 280px;
+    height: 160px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+  }
+  .photorst {
+    width: 300px;
+    height: 190px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+  }
+  #shirts {
+    width: 160px;
+    height: 80px;
+    padding-bottom: 2px;
+    cursor: pointer;
+  }
+  .center {
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+  }
+  #levyashin {
+    width: 160px;
+    height: 80px;
+    padding-bottom: 2px;
+    cursor: pointer;
+  }
+  #correction {
+    width: 160px;
+    height: 80px;
+    padding-bottom: 2px;
+    cursor: pointer;
+  }
+  #ronaldo {
+    width: 160px;
+    height: 160px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 15px;
+  }
+  .size {
+    font-size: 14px;
+    padding: 0px;
+  }
+  .info {
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 10px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+  }
+}
+@media only screen and (min-width: 360px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 40px;
+    font-size: 45px;
+    margin-bottom: 0;
+    margin-top: 35px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 40px;
+    font-size: 19px;
+    margin-top: 0;
+  }
+  .buttons {
+    display: inline-block;
+    text-align: center;
+    color: white;
+  }
+  .buttons a{
+    display: inline-block;
+    color: white;
+    padding-top: 38px;
+    padding-left: 10px;
+    padding-right: 5px;
+    text-decoration: none;
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 15px;
+    transition: .5s;
+  }
+  .buttons a:hover {
+    color: grey;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 13px;
+    text-align: left;
+    float: left;
+    width: 32%;
+    margin-left: 11%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 13px;
+    text-align: left;
+    float: right;
+    margin-right: 11%;
+    width: 32%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 22%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 310px;
+    height: 310px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  .offers-menu {
+    width: 100%;
+      display: inline-block;
+      text-align: center;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      position: fixed;
+  }
+  .offers {
+    display: inline-block;
+    float: none;
+    text-align: center;
+  }
+  .offers a {
+    display: inline-block;
+    float: none;
+    color: white;
+    text-align: center;
+    padding: 7px;
+    text-decoration: none;
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 10px;
+    transition: 0.5s;
+  }
+  .offers a:hover {
+    color: grey;
+  }
+  #panel {
+    padding: 50px;
+    display: none;
+    width: 100%;
+  }
+  #panel, #button {
+    padding: 5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-family: BebasNeue, Helvetica, sans-serif;
+    font-size: 8px;
+  }
+  .recolor {
+    width: 230px;
+    height: 310px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  .corandrep {
+    width: 330px;
+    height: 200px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  .photorst {
+    width: 330px;
+    height: 210px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  #shirts {
+    width: 190px;
+    height: 100px;
+    padding-bottom: 5px;
+    cursor: pointer;
+  }
+  .center {
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+  }
+  #levyashin {
+    width: 190px;
+    height: 100px;
+    padding-bottom: 5px;
+    cursor: pointer;
+  }
+  #correction {
+    width: 190px;
+    height: 100px;
+    padding-bottom: 5px;
+    cursor: pointer;
+  }
+  #ronaldo {
+    width: 190px;
+    height: 190px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 10px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 15px;
+  }
+  .info {
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 12px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+  }
+}
+@media only screen and (min-width: 410px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 23px;
+    margin-top: 0;
+  }
+  .buttons {
+    display: inline-block;
+    text-align: center;
+    color: white;
+  }
+  .buttons a{
+    display: inline-block;
+    color: white;
+    padding-top: 36px;
+    padding-left: 10px;
+    padding-right: 5px;
+    text-decoration: none;
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 18px;
+    transition: .5s;
+  }
+  .buttons a:hover {
+    color: grey;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 14px;
+    text-align: left;
+    float: left;
+    width: 32%;
+    margin-left: 13%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 14px;
+    text-align: left;
+    float: right;
+    margin-right: 13%;
+    width: 32%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 22%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 370px;
+    height: 370px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+  .offers-menu {
+    width: 100%;
+      display: inline-block;
+      text-align: center;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      position: fixed;
+  }
+  .offers {
+    display: inline-block;
+    float: none;
+    text-align: center;
+  }
+  .offers a {
+    display: inline-block;
+    float: none;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 11px;
+    transition: 0.5s;
+  }
+  .offers a:hover {
+    color: grey;
+  }
+  #panel {
+    padding: 50px;
+    display: none;
+    width: 100%;
+  }
+  #panel, #button {
+    padding: 5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-family: BebasNeue, Helvetica, sans-serif;
+    font-size: 13px;
+  }
+  .recolor {
+    width: 290px;
+    height: 370px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+  .corandrep {
+    width: 370px;
+    height: 230px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+  .photorst {
+    width: 370px;
+    height: 260px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+  #shirts {
+    width: 190px;
+    height: 120px;
+    padding-right: 10px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  .center {
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding-top: 20px;
+  }
+  #levyashin {
+    width: 190px;
+    height: 120px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #correction {
+    width: 190px;
+    height: 120px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+    cursor: pointer;
+  }
+  #ronaldo {
+    width: 190px;
+    height: 190px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 20px;
+  }
+  .info {
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+  }
+}
+@media only screen and (max-width: 410px) {
+  #panel {
+    padding: 50px;
+    display: none;
+    width: 100%;
+  }
+  #panel, #button {
+    padding: 5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-family: BebasNeue, Helvetica, sans-serif;
+    font-size: 13px;
+  }
+}
+@media only screen and (min-width: 480px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 58px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 26px;
+    margin-top: 0;
+  }
+  .buttons {
+    display: inline-block;
+    text-align: center;
+    color: white;
+  }
+  .buttons a{
+    display: inline-block;
+    color: white;
+    padding-top: 34px;
+    padding-left: 10px;
+    padding-right: 5px;
+    text-decoration: none;
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 21px;
+    transition: .5s;
+  }
+  .buttons a:hover {
+    color: grey;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 15px;
+    text-align: left;
+    float: left;
+    width: 32%;
+    margin-left: 13%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 15px;
+    text-align: left;
+    float: right;
+    margin-right: 13%;
+    width: 32%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 23%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 400px;
+    height: 400px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  .offers-menu {
+    width: 100%;
+      display: inline-block;
+      text-align: center;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      position: fixed;
+  }
+  .offers {
+    display: inline-block;
+    float: none;
+    text-align: center;
+  }
+  .offers a {
+    display: inline-block;
+    float: none;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 13px;
+    transition: 0.5s;
+  }
+  .offers a:hover {
+    color: grey;
+  }
+  #panel {
+    padding: 50px;
+    display: none;
+    width: 100%;
+  }
+  #panel, #button {
+    padding: 5px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    font-family: BebasNeue, Helvetica, sans-serif;
+    font-size: 16px;
+  }
+  .recolor {
+    width: 320px;
+    height: 400px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  .corandrep {
+    width: 440px;
+    height: 270px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  .photorst {
+    width: 440px;
+    height: 300px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  #shirts {
+    width: 200px;
+    height: 120px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  .center {
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+  }
+  #levyashin {
+    width: 200px;
+    height: 120px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #correction {
+    width: 200px;
+    height: 120px;
+    padding-right: 25px;
+    padding-bottom: 40px;
+    cursor: pointer;
+  }
+  #ronaldo {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 20px;
+  }
+  .info {
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    padding-top: 60px;
+  }
+}
+@media only screen and (max-width: 580px) {
+  .menu {
+    display: none;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 70px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 35px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 15px;
+    text-align: left;
+    float: left;
+    width: 32%;
+    margin-left: 13%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 15px;
+    text-align: left;
+    float: right;
+    margin-right: 13%;
+    width: 32%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 25%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 500px;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .offers-menu {
+    width: 100%;
+      display: inline-block;
+      text-align: center;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      position: fixed;
+  }
+  .offers {
+    display: inline-block;
+    float: none;
+    text-align: center;
+  }
+  .offers a {
+    display: inline-block;
+    float: none;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 15px;
+    transition: 0.5s;
+  }
+  .offers a:hover {
+    color: grey;
+  }
+  .recolor {
+    width: 420px;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .corandrep {
+    width: 550px;
+    height: 310px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .photorst {
+    width: 580px;
+    height: 390px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  #shirts {
+    width: 270px;
+    height: 160px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  .center {
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+  }
+  #levyashin {
+    width: 270px;
+    height: 160px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #correction {
+    width: 270px;
+    height: 160px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #ronaldo {
+    width: 270px;
+    height: 270px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 25px;
+  }
+  .size {
+    font-size: 18px;
+    padding: 0px;
+  }
+}
+@media only screen and (min-width: 720px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 80px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 44px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 16px;
+    text-align: left;
+    float: left;
+    width: 32%;
+    margin-left: 15%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 16px;
+    text-align: left;
+    float: right;
+    margin-right: 15%;
+    width: 32%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 27%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 500px;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .offers-menu {
+    width: 100%;
+      display: inline-block;
+      text-align: center;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      position: fixed;
+  }
+  .offers {
+    display: inline-block;
+    float: none;
+    text-align: center;
+  }
+  .offers a {
+    display: inline-block;
+    float: none;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+    font-family: BebasNeue, Helvetica, Sans-serif;
+    font-size: 18px;
+    transition: 0.5s;
+  }
+  .offers a:hover {
+    color: grey;
+  }
+  .recolor {
+    width: 420px;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .corandrep {
+    width: 680px;
+    height: 380px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .photorst {
+    width: 680px;
+    height: 490px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  #shirts {
+    width: 320px;
+    height: 190px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  .center {
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+  }
+  #levyashin {
+    width: 320px;
+    height: 190px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #correction {
+    width: 320px;
+    height: 190px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #ronaldo {
+    width: 320px;
+    height: 320px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 30px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 83px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 46px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 17px;
+    text-align: left;
+    float: left;
+    width: 32%;
+    margin-left: 15%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 17px;
+    text-align: left;
+    float: right;
+    margin-right: 15%;
+    width: 32%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 28%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 500px;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .recolor {
+    width: 420px;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .corandrep {
+    width: 700px;
+    height: 380px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .photorst {
+    width: 690px;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  #shirts {
+    width: 320px;
+    height: 190px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  .center {
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+  }
+  #levyashin {
+    width: 320px;
+    height: 190px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #correction {
+    width: 320px;
+    height: 190px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #ronaldo {
+    width: 320px;
+    height: 320px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 30px;
+  }
+}
+@media only screen and (min-width: 800px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 90px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 53px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    float: left;
+    width: 32%;
+    margin-left: 15%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 18px;
+    text-align: left;
+    float: right;
+    margin-right: 15%;
+    width: 32%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 30%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 500px;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .recolor {
+    width: 420px;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .corandrep {
+    width: 720px;
+    height: 400px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .photorst {
+    width: 690px;
+    height: 500px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  #shirts {
+    width: 320px;
+    height: 190px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  .center {
+    text-align: center;
+    display: block;
+    width: 100%;
+    padding-top: 10px;
+  }
+  #levyashin {
+    width: 320px;
+    height: 190px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #correction {
+    width: 320px;
+    height: 190px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #ronaldo {
+    width: 320px;
+    height: 320px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 30px;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 69.33px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 40.53px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 19px;
+    text-align: left;
+    float: left;
+    width: 30%;
+    margin-left: 17%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 19px;
+    text-align: left;
+    float: right;
+    margin-right: 17%;
+    width: 30%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 34%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 330px;
+    height: 330px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .recolor {
+    width: 250px;
+    height: 330px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .corandrep {
+    width: 630px;
+    height: 330px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .photorst {
+    width: 520px;
+    height: 330px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .center {
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    padding-top: 10px;
+  }
+  #shirts {
+    width: 220px;
+    height: 130px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #levyashin {
+    width: 220px;
+    height: 130px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #correction {
+    width: 220px;
+    height: 130px;
+    padding-right: 25px;
+    padding-bottom: 50px;
+    cursor: pointer;
+  }
+  #ronaldo {
+    width: 220px;
+    height: 220px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 25px;
+  }
+}
+@media only screen and (min-width: 1280px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 86.67px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 50.67px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 22px;
+    text-align: left;
+    float: left;
+    width: 30%;
+    margin-left: 17%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 22px;
+    text-align: left;
+    float: right;
+    margin-right: 17%;
+    width: 30%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 36%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 360px;
+    height: 360px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .recolor {
+    width: 280px;
+    height: 360px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .corandrep {
+    width: 660px;
+    height: 350px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .photorst {
+    width: 550px;
+    height: 360px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  #shirts {
+    width: 275px;
+    height: 155px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+    cursor: pointer;
+  }
+  #levyashin {
+    width: 275px;
+    height: 155px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+    cursor: pointer;
+  }
+  #correction {
+    width: 275px;
+    height: 155px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+    cursor: pointer;
+  }
+  #ronaldo {
+    width: 275px;
+    height: 275px;
+    cursor: pointer;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 30px;
+  }
+}
+@media only screen and (min-width: 1366px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 92.5px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 54.1px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 23px;
+    text-align: left;
+    float: left;
+    width: 30%;
+    margin-left: 17%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 23px;
+    text-align: left;
+    float: right;
+    margin-right: 17%;
+    width: 30%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 38%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 380px;
+    height: 380px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .recolor {
+    width: 300px;
+    height: 380px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .corandrep {
+    width: 680px;
+    height: 360px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  .photorst {
+    width: 570px;
+    height: 380px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+  #shirts {
+    width: 300px;
+    height: 180px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #levyashin {
+    width: 300px;
+    height: 180px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #correction {
+    width: 300px;
+    height: 180px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #ronaldo {
+    width: 300px;
+    height: 300px;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 35px;
+  }
+}
+@media only screen and (min-width: 1440px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 97.5px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 57px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 24px;
+    text-align: left;
+    float: left;
+    width: 30%;
+    margin-left: 17%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 24px;
+    text-align: left;
+    float: right;
+    margin-right: 17%;
+    width: 30%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 40%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 430px;
+    height: 430px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+  }
+  .recolor {
+    width: 350px;
+    height: 430px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+  }
+  .corandrep {
+    width: 730px;
+    height: 400px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+  }
+  .photorst {
+    width: 620px;
+    height: 430px;
+    padding-top: 60px;
+    padding-bottom: 10px;
+  }
+  #shirts {
+    width: 300px;
+    height: 180px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #levyashin {
+    width: 300px;
+    height: 180px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #correction {
+    width: 300px;
+    height: 180px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #ronaldo {
+    width: 300px;
+    height: 300px;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 35px;
+  }
+}
+@media only screen and (min-width: 1600px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 108.33px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 63.33px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 25px;
+    text-align: left;
+    float: left;
+    width: 30%;
+    margin-left: 17%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 25px;
+    text-align: left;
+    float: right;
+    margin-right: 17%;
+    width: 30%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 42%;
+    padding: 0;
+    margin: 0;
+  }
+  #shirts {
+    width: 350px;
+    height: 230px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #levyashin {
+    width: 350px;
+    height: 230px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #correction {
+    width: 350px;
+    height: 230px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #ronaldo {
+    width: 350px;
+    height: 350px;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 1680px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 113.75px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 66.5px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 26px;
+    text-align: left;
+    float: left;
+    width: 30%;
+    margin-left: 17%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 26px;
+    text-align: left;
+    float: right;
+    margin-right: 17%;
+    width: 30%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 44%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 510px;
+    height: 510px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+  }
+  .recolor {
+    width: 430px;
+    height: 510px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+  }
+  .corandrep {
+    width: 810px;
+    height: 460px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+  }
+  .photorst {
+    width: 810px;
+    height: 520px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+  }
+  #shirts {
+    width: 350px;
+    height: 230px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #levyashin {
+    width: 350px;
+    height: 230px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #correction {
+    width: 350px;
+    height: 230px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #ronaldo {
+    width: 350px;
+    height: 350px;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 1920px) {
+  .homepage {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    padding-left: 45px;
+    font-size: 130px;
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  .small {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: #511fc4;
+    padding-left: 45px;
+    font-size: 76px;
+    margin-top: 0;
+  }
+  #aboutme1 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 32px;
+    text-align: left;
+    float: left;
+    width: 30%;
+    margin-left: 17%;
+    padding: 10px;
+  }
+  #aboutme2 {
+    font-family: BebasNeue, Helvetica, sans-serif;
+    color: white;
+    font-size: 32px;
+    text-align: left;
+    float: right;
+    margin-right: 17%;
+    width: 30%;
+    padding: 10px;
+  }
+  .newimg {
+    width: 100%;
+    height: 46%;
+    padding: 0;
+    margin: 0;
+  }
+  .sportsposter {
+    width: 600px;
+    height: 600px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+  }
+  .recolor {
+    width: 520px;
+    height: 600px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+  }
+  .corandrep {
+    width: 900px;
+    height: 550px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+  }
+  .photorst {
+    width: 900px;
+    height: 600px;
+    padding-top: 60px;
+    padding-bottom: 50px;
+  }
+  #shirts {
+    width: 400px;
+    height: 280px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #levyashin {
+    width: 400px;
+    height: 280px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #correction {
+    width: 400px;
+    height: 280px;
+    padding-right: 25px;
+    padding-bottom: 60px;
+  }
+  #ronaldo {
+    width: 400px;
+    height: 400px;
+  }
+  #overlay1 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay2 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay3 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel3{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  #overlay4 {
+    position: fixed;
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgb(0, 0, 0, 0.9);
+    z-index: 2;
+    cursor: pointer;
+  }
+  #panel4{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+  }
+  th {
+    font-size: 40px;
+  }
+}
+.menu1 {
+	display: inline-block;
+	float: left;
+	color: white;
+}
+.menu1 .fa {
+  color: white;
+  font-size: 30px;
+  line-height: 50px;
+  transition: .5s;
+}
+.menu1 .fa:hover {
+  color: grey;
+}
+.menu1 a
+{
+	display: inline-block;
+	color: white;
+	float: left;
+	padding: 8px 8px 8px 32px;
+	text-decoration: none;
+	font-family: BebasNeue, Helvetica, Sans-serif;
+	font-size: 30px;
+	transition: .5s;
+}
+#all {
+  text-align: center;
+  padding-bottom: 0px;
+}
+.center1 {
+  text-align: center;
+  display: inline-block;
+  width: 100%;
+}
+th a {
+  text-decoration: none;
+  color: white;
+}
+th a:hover {
+  transition: 0.9s;
+  opacity: 0.5;
+}
