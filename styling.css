@@ -157,6 +157,9 @@ header {
 	margin: 0px;
   height: 90px;
 }
+.portfolio {
+  background-color: black;
+}
 body {
 	margin: 0px;
   padding: 0px;
